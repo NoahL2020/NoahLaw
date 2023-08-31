@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -34,68 +34,9 @@ data analysis, mathematical modeling, algorithm building, and applied mathematic
 
 <p>I'm currently looking for an internship where I can apply these skills. I'm available Spring 2024,
 Summer 2024, and Spring 2025. If you're interested, you can contact me at any of the contacts listed below.</p>
-
+<br>
 </body>
 </html>
-
-<style>
-    .contact-container {
-        font-size: 20px;
-        margin-bottom: 15px; /* Adjust vertical spacing between items */
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .heading-bar {
-        width: 100%;
-        height: 2px;
-        background-color: black;
-        margin-top: 2px;
-        margin-bottom: 15px;
-    }
-
-    .contact-name {
-        width: 50%; /* Adjust the width as needed */
-    }
-
-    .contact-info {
-        width: 50%; /* Adjust the width as needed */
-        text-align: left;
-    }
-</style>
-
-<br>
-
-<h2>Contact</h2>
-<div class="heading-bar"></div>
-
-<div class="contact-container">
-    <div class="contact-name">
-        <strong>E-mail</strong>
-    </div>
-    <div class="contact-info">
-        <a href="mailto:noahlaw@gatech.edu">noahlaw@gatech.edu</a>
-    </div>
-</div>
-
-<div class="contact-container">
-    <div class="contact-name">
-        <strong>Phone</strong>
-    </div>
-    <div class="contact-info">
-        <a>(404)-314-1728</a>
-    </div>
-</div>
-
-<div class="contact-container">
-    <div class="contact-name">
-        <strong>LinkedIn</strong>
-    </div>
-    <div class="contact-info">
-        <a href="https://www.linkedin.com/in/noah-law-751862191/">linkedin.com/in/noah-law/</a>
-    </div>
-</div>
-
 
 <style>
     .project-container {
@@ -150,5 +91,52 @@ Summer 2024, and Spring 2025. If you're interested, you can contact me at any of
     </div>
 </div>
 <br>
+<style>
+    .contact-container {
+        font-size: 20px;
+        margin-bottom: 15px; /* Adjust vertical spacing between items */
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .heading-bar {
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        margin-top: 2px;
+        margin-bottom: 15px;
+    }
+
+    .contact-name {
+        width: 50%; /* Adjust the width as needed */
+    }
+
+    .contact-info {
+        width: 50%; /* Adjust the width as needed */
+        text-align: left;
+    }
+</style>
+
+
+<h2>Contact</h2>
+<div class="heading-bar"></div>
+
+<div class="contact-container">
+    <div class="contact-name">
+        <strong>E-mail</strong>
+    </div>
+    <div class="contact-info">
+        <a href="mailto:noahlaw@gatech.edu">noahlaw@gatech.edu</a>
+    </div>
+</div>
+<div class="contact-container">
+    <div class="contact-name">
+        <strong>LinkedIn</strong>
+    </div>
+    <div class="contact-info">
+        <a href="https://www.linkedin.com/in/noah-law-751862191/">linkedin.com/in/noah-law/</a>
+    </div>
+</div>
+
 
 

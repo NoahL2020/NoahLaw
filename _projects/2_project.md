@@ -1,13 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Comparing Resnet50 and VGG16
+description: Comparing the true positive, true negative, type I, and type II error for image similarity using Resnet50 and VGG16
+img: assets/img/VGG16.png
 importance: 2
 category: work
 giscus_comments: true
 ---
-
+WORK IN PROGRESS NOT ADDED YET<br><br>
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.

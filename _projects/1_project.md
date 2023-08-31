@@ -1,13 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Automated Arbitrage Software
+description: Continuosly scrapes 6 largest clothing platforms and alerts when items are listed well below market value
+img: assets/img/NeuralNet.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
+WORK IN PROGRESS NOT ADDED YET<br><br>
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.

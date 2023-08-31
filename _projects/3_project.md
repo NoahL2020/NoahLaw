@@ -1,13 +1,13 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: MLR Model for National Happiness
+description: Modelling over 150 countries' happiness using a multiple linear regression model
+img: assets/img/Happy.jpg
+redirect: /NoahLaw.github.io/projects/3_project/
 importance: 3
 category: work
 ---
-
+WORK IN PROGRESS NOT ADDED YET <br><br>
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
