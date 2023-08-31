@@ -2,25 +2,153 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile_Pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: #>
+   #<p>555 your office number</p>
+   # <p>123 your address street</p>
+    #<p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
+<html>
+<head>
+<style>
+    body {
+        font-size: 20px;
+    }
+</style>
+</head>
+<body>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>Hello, I'm Noah and I'm a fourth year Industrial Engineering student at Georgia Tech.
+I'm originally from Powder Springs, GA but currently live in Atlanta. My academic interests are 
+data analysis, mathematical modeling, algorithm building, and applied mathematics.</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p>I'm currently looking for an internship where I can apply these skills. I'm available Spring 2024,
+Summer 2024, and Spring 2025. If you're interested, you can contact me at any of the contacts listed below.</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+</body>
+</html>
+
+<style>
+    .contact-container {
+        font-size: 20px;
+        margin-bottom: 15px; /* Adjust vertical spacing between items */
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .heading-bar {
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        margin-top: 2px;
+        margin-bottom: 15px;
+    }
+
+    .contact-name {
+        width: 50%; /* Adjust the width as needed */
+    }
+
+    .contact-info {
+        width: 50%; /* Adjust the width as needed */
+        text-align: left;
+    }
+</style>
+
+<br>
+
+<h2>Contact</h2>
+<div class="heading-bar"></div>
+
+<div class="contact-container">
+    <div class="contact-name">
+        <strong>E-mail</strong>
+    </div>
+    <div class="contact-info">
+        <a href="mailto:noahlaw@gatech.edu">noahlaw@gatech.edu</a>
+    </div>
+</div>
+
+<div class="contact-container">
+    <div class="contact-name">
+        <strong>Phone</strong>
+    </div>
+    <div class="contact-info">
+        <a>(404)-314-1728</a>
+    </div>
+</div>
+
+<div class="contact-container">
+    <div class="contact-name">
+        <strong>LinkedIn</strong>
+    </div>
+    <div class="contact-info">
+        <a href="https://www.linkedin.com/in/noah-law-751862191/">linkedin.com/in/noah-law/</a>
+    </div>
+</div>
+
+
+<style>
+    .project-container {
+        font-size: 20px;
+        margin-bottom: 12px; /* Adjust vertical spacing between items */
+        display: flex;
+        justify-content: space-between;
+    }
+.heading-bar {
+        width: 100%;
+        height: 2px;
+        background-color: black;
+        margin-top: 2px;
+        margin-bottom: 15px
+
+    }
+    .project-name {
+        width: 50%; /* Adjust the width as needed */
+    }
+
+    .project-technologies {
+        width: 50%; /* Adjust the width as needed */
+        text-align: left;
+    }
+</style>
+<h2>Selected Projects</h2>
+<div class="heading-bar"></div>
+<div class="project-container">
+    <div class="project-name">
+        <a href="/NoahLaw.github.io/projects/1_project/">Automated Arbitrage Software</a>
+    </div>
+    <div class="project-technologies">
+        <strong>Python, SQL, Selenium, Heroku, FTP</strong>
+    </div>
+</div>
+
+<div class="project-container">
+    <div class="project-name">
+        <a href="/NoahLaw.github.io/projects/2_project/">Comparing Resnet50 and VGG16</a>
+    </div>
+    <div class="project-technologies">
+        <strong>Python, Tensorflow</strong>
+    </div>
+</div>
+
+<div class="project-container">
+    <div class="project-name">
+        <a href="/NoahLaw.github.io/projects/3_project/">MLR Model for National Happiness</a>
+    </div>
+    <div class="project-technologies">
+        <strong>R, Stepwise</strong>
+    </div>
+</div>
+<br>
+
+
