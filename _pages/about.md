@@ -66,7 +66,7 @@ Summer 2024, and Spring 2025. If you're interested, you can contact me at any of
 <div class="heading-bar"></div>
 <div class="project-container">
     <div class="project-name">
-        <a href="/NoahLaw.github.io/projects/1_project/">Automated Arbitrage Software</a>
+        <a href="/NoahLaw/projects/1_project/">Automated Arbitrage Software</a>
     </div>
     <div class="project-technologies">
         <strong>Python, SQL, Selenium, Heroku, FTP</strong>
@@ -75,7 +75,7 @@ Summer 2024, and Spring 2025. If you're interested, you can contact me at any of
 
 <div class="project-container">
     <div class="project-name">
-        <a href="/NoahLaw.github.io/projects/2_project/">Comparing Resnet50 and VGG16</a>
+        <a href="/NoahLaw/projects/2_project/">Comparing Resnet50 and VGG16</a>
     </div>
     <div class="project-technologies">
         <strong>Python, Tensorflow</strong>
@@ -84,7 +84,7 @@ Summer 2024, and Spring 2025. If you're interested, you can contact me at any of
 
 <div class="project-container">
     <div class="project-name">
-        <a href="/NoahLaw.github.io/projects/3_project/">MLR Model for National Happiness</a>
+        <a href="/NoahLaw/projects/3_project/">MLR Model for National Happiness</a>
     </div>
     <div class="project-technologies">
         <strong>R, Stepwise</strong>

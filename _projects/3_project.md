@@ -3,7 +3,7 @@ layout: page
 title: MLR Model for National Happiness
 description: Modelling over 150 countries' happiness using a multiple linear regression model
 img: assets/img/Happy.jpg
-redirect: /NoahLaw.github.io/projects/3_project/
+redirect: /NoahLaw/projects/3_project/
 importance: 3
 category: work
 ---
